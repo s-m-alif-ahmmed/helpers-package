@@ -26,7 +26,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "AlifAhmmed\\HelperPackage\\HelperServiceProvider"
+                "AlifAhmmed\\HelperPackage\\AppHelperServiceProvider"
             ],
             "aliases": {
                 "Helper": "AlifAhmmed\\HelperPackage\\Helpers\\Helper"

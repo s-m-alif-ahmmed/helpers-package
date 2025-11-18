@@ -1,11 +1,11 @@
 <?php
 
-namespace AlifAhmmed\HelperPackage; // singular, matches composer.json
+namespace AlifAhmmed\HelperPackage;
 
 use Illuminate\Support\ServiceProvider;
 use AlifAhmmed\HelperPackage\Helpers\Helper;
 
-class HelperServiceProvider extends ServiceProvider
+class AppHelperServiceProvider extends ServiceProvider
 {
     public function register()
     {
