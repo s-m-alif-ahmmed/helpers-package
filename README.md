@@ -47,7 +47,7 @@ It leverages the latest features of PHP 8, including union types and improved ty
 Install via Composer:
 
 ```bash
-  composer require alifahmmed/helpers-package:^1.1.0
+  composer require alifahmmed/helpers-package:^1.1.1
 ```
 
 Configuration
